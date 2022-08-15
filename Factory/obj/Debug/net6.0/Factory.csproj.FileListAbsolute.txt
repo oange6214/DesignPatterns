@@ -1,0 +1,15 @@
+J:\C#\NetCoreWebAPI\DesignPatterns\Factory\bin\Debug\net6.0\Factory.exe
+J:\C#\NetCoreWebAPI\DesignPatterns\Factory\bin\Debug\net6.0\Factory.deps.json
+J:\C#\NetCoreWebAPI\DesignPatterns\Factory\bin\Debug\net6.0\Factory.runtimeconfig.json
+J:\C#\NetCoreWebAPI\DesignPatterns\Factory\bin\Debug\net6.0\Factory.dll
+J:\C#\NetCoreWebAPI\DesignPatterns\Factory\bin\Debug\net6.0\Factory.pdb
+J:\C#\NetCoreWebAPI\DesignPatterns\Factory\obj\Debug\net6.0\Factory.csproj.AssemblyReference.cache
+J:\C#\NetCoreWebAPI\DesignPatterns\Factory\obj\Debug\net6.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+J:\C#\NetCoreWebAPI\DesignPatterns\Factory\obj\Debug\net6.0\Factory.AssemblyInfoInputs.cache
+J:\C#\NetCoreWebAPI\DesignPatterns\Factory\obj\Debug\net6.0\Factory.AssemblyInfo.cs
+J:\C#\NetCoreWebAPI\DesignPatterns\Factory\obj\Debug\net6.0\Factory.csproj.CoreCompileInputs.cache
+J:\C#\NetCoreWebAPI\DesignPatterns\Factory\obj\Debug\net6.0\Factory.dll
+J:\C#\NetCoreWebAPI\DesignPatterns\Factory\obj\Debug\net6.0\refint\Factory.dll
+J:\C#\NetCoreWebAPI\DesignPatterns\Factory\obj\Debug\net6.0\Factory.pdb
+J:\C#\NetCoreWebAPI\DesignPatterns\Factory\obj\Debug\net6.0\Factory.genruntimeconfig.cache
+J:\C#\NetCoreWebAPI\DesignPatterns\Factory\obj\Debug\net6.0\ref\Factory.dll
