@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Devolops\\C#\\DesignPatterns\\Factory\\Factory.csproj": {}
+    "D:\\Devolops\\C#\\DesignPatterns\\Repository\\Repository.csproj": {}
   },
   "projects": {
-    "D:\\Devolops\\C#\\DesignPatterns\\Factory\\Factory.csproj": {
+    "D:\\Devolops\\C#\\DesignPatterns\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Devolops\\C#\\DesignPatterns\\Factory\\Factory.csproj",
-        "projectName": "Factory",
-        "projectPath": "D:\\Devolops\\C#\\DesignPatterns\\Factory\\Factory.csproj",
+        "projectUniqueName": "D:\\Devolops\\C#\\DesignPatterns\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "D:\\Devolops\\C#\\DesignPatterns\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\his62\\.nuget\\packages\\",
-        "outputPath": "D:\\Devolops\\C#\\DesignPatterns\\Factory\\obj\\",
+        "outputPath": "D:\\Devolops\\C#\\DesignPatterns\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,18 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
